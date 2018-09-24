@@ -1,3 +1,3 @@
-def say_hello("name")# Build your say_hello method here
+def say_hello(name)# Build your say_hello method here
   puts "Hello name!"
 end
